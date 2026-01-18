@@ -37,7 +37,7 @@ network_latency_ms (0.0929): Core infrastructure health signal.
 
 ## 📂 Project Structure
 * [distributed_system_architecture_stress_dataset.ipynb](./distributed_system_architecture_stress_dataset.ipynb): Complete Python code, EDA, and Model training.
-* [Project_Report.pdf](./reports/Project Report.pdf): Formal technical report with findings and SRE recommendations.
+* [Project Report.pdf](./reports/Project Report.pdf): Formal technical report with findings and SRE recommendations.
 * [Dataset Source](https://www.kaggle.com/code/bilalahmed211/stress-and-failure-in-distributed-system): Link to the original Kaggle dataset.
 
 # 🚀 How to Run
